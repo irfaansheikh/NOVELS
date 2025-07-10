@@ -59,7 +59,7 @@
     const defaultCover = "https://via.placeholder.com/300x200.png?text=No+Cover";
     const urlParams = new URLSearchParams(window.location.search);
     const folderPath = urlParams.get("path") || urlParams.get("name") || "";
-    const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${folderPath}`;
+    const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${encodeURIComponent(folderPath)}`;
 
     const breadcrumbDiv = document.getElementById("breadcrumbs");
     const folderParts = folderPath.split("/").filter(Boolean);
