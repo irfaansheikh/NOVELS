@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  aaaaaa
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>📚 Irfaan's Novel Library</title>
@@ -42,15 +41,11 @@
       <!-- Author tiles will go here -->
     </div>
   </div>
-
   <script>
     const username = "irfaansheikh";
     const repo = "NOVELS";
     const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/`;
 
-
-
-    
     fetch(apiUrl)
       .then(res => res.json())
       .then(data => {
@@ -69,8 +64,6 @@
                 ${author}
               </div>
             `;
-
-            
             container.appendChild(card);
           }
         });
