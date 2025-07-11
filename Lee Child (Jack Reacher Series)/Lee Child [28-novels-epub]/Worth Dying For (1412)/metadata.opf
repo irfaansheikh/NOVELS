@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9eb31a03-3947-4a19-84dd-708430a77bbc</dc:identifier>
+        <dc:title>Worth Dying For</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Worth Dying For&lt;/em&gt; finds our battered hero hiding in plain sight in a tiny Nebraska town, trying to recover from the catastrophe he left behind in South Dakota (no spoilers here, but readers are still arguing over &lt;em&gt;61 Hours&lt;/em&gt;’s cliffhanger ending). Fans rarely see such a physically vulnerable Reacher (in the first part of the book he is barely able to lift his arms) but it just adds to the fist-pumping satisfaction of seeing our weary good guy take on the small-town baddies. --_Daphne Durham_&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;In Child's exciting 15th thriller featuring one-man army Jack Reacher (after 61 Hours), Reacher happens into a situation tailor-made for his blend of morality and against-the-odds heroics. While passing through an isolated Nebraska town, the ex-military cop persuades the alcoholic local doctor to treat Eleanor Duncan, who's married to the abusive Seth, for a "nosebleed." Reacher later breaking Seth's nose prompts members of the Duncan clan, who are involved in an illegal trafficking scheme, to seek revenge. Reacher, who easily disposes of two hit men sent to get him, winds up trying to solve a decades-old case concerning a missing eight-year-old girl. While Child convincingly depicts his hero's superhuman abilities, he throws in a few lucky breaks to enable the outnumbered Reacher to survive. Crisp, efficient prose and well-rounded characterizations (at least of the guys in the white hats) raise this beyond other attempts to translate the pulse-pounding feel of the Die Hard films into prose. (Nov.) (c) &lt;br&gt;Copyright © PWxyz, LLC. All rights reserved. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385344319</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missing children</dc:subject>
+        <dc:subject>Ex-police officers</dc:subject>
+        <dc:subject>Reacher; Jack (Fictitious character)</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="2014-10-26T09:36:36+00:00" name="calibre:timestamp"/>
+        <meta content="Worth Dying For" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

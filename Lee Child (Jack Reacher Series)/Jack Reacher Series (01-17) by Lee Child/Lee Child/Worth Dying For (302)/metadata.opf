@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f72a5e5-f4f3-4832-82bc-fdca8c538443</dc:identifier>
+        <dc:title>Worth Dying For</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;#1 &lt;em&gt;NEW YORK TIMES&lt;/em&gt; BESTSELLER&lt;/strong&gt;&lt;br&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br&gt;&lt;strong&gt;“Compulsively readable.”—*The Wall Street Journal&lt;/strong&gt;*&lt;br&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br&gt;&lt;strong&gt;“Don’t pick up [this] Jack Reacher novel if you don’t have some time on your hands, because &lt;em&gt;Worth Dying For &lt;/em&gt;is difficult to put down. . . . Child manages to get an amazing amount of suspense into the novel.”—Associated Press&lt;/strong&gt;&lt;br&gt;&lt;br&gt;There’s deadly trouble in the corn county of Nebraska . . . and Jack Reacher walks right into it. First he falls foul of the Duncans, a local clan that has terrified an entire county into submission. But it’s the unsolved, decades-old case of a missing child that Reacher can’t let go.&lt;br&gt;&lt;br&gt;The Duncans want Reacher gone—and it’s not just past secrets they’re trying to hide. For as dangerous as the Duncans are, they’re just the bottom of a criminal food chain stretching halfway around the world. For Reacher, it would have made much more sense to put some distance between himself and the hard-core trouble that’s bearing down on him. For Reacher, that was also impossible.&lt;br&gt;&lt;/p&gt;&lt;p&gt;BONUS: This edition contains an excerpt from Lee Child's &lt;em&gt;A Wanted Man.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;“A model of suspenseful storytelling and an outstanding addition to a series that stands in the front rank of modern thrillers.”—*The Washington Post&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;strong&gt; &lt;/strong&gt;&lt;br&gt;&lt;em&gt;“Still the thinking man’s action hero, supreme butt-kicker and smartest guy in the room.”—*The Seattle Times&lt;/em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; &lt;strong&gt;&lt;br&gt;&lt;/strong&gt;“This series is about as good as pop fiction gets.”—&lt;em&gt;The Miami Herald&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Windsor</dc:publisher>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/worth-dying-for-lee-child/1100091933</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780440339342</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/worth-dying-for</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">8357992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-04-26T02:16:01+00:00" name="calibre:timestamp"/>
+        <meta content="Worth Dying For" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

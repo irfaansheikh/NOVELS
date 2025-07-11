@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3dff6e3-ab99-472d-9ded-5fe514a13308</dc:identifier>
+        <dc:title>Small Wars</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;In this eBook exclusive short story, #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Lee Child goes back to 1989, when Jack Reacher is an MP assigned to solve the cold-blooded murder of a young officer--whose killer may be closer to Reacher than he suspects.&lt;/b&gt;&lt;br&gt; &lt;br&gt; &lt;b&gt;Don't miss a thrilling preview of Lee Child's highly anticipated new Jack Reacher novel, &lt;i&gt;Make Me&lt;/i&gt;!&lt;/b&gt;&lt;br&gt; &lt;br&gt; The telex is brief and to the point:&lt;i&gt; One active-duty personnel found shot to death ten miles north of Fort Smith. Circumstances unknown. &lt;/i&gt;Found in a silver Porsche along an isolated forest road in Georgia, the victim was shot twice in the chest and once in the head. A professional hit. Clean. The crime scene suggests an ambush. Military police officer Jack Reacher is given the case. He calls his older brother, Colonel Joe Reacher, at the Pentagon for intel and taps Sergeant Frances Neagley to help him answer the big question: Who would kill a brilliant officer on the fast-track to...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="19.50" name="calibre:series_index"/>
+        <meta content="2017-01-28T09:45:22.421000+00:00" name="calibre:timestamp"/>
+        <meta content="Small Wars" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

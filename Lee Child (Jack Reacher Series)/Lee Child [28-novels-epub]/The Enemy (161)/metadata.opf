@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac70eab0-0827-4231-893e-7d678ba8a7f3</dc:identifier>
+        <dc:title>The Enemy</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Jack Reacher. Hero. Loner. Soldier. Soldier's son. An elite military cop, he was one of the army's brightest stars. But in every cop's life there is one case that changes everything. For Jack Reacher, this is that case. New Year's Day, 1990. In a North Carolina motel, a two-star general is found dead. His briefcase is missing. Nobody knows what was in it. Within minutes Reacher has his orders:Control the situation. Within hours the general's wife is murdered. Then the dominoes really start to fall. Somewhere inside the vast worldwide fortress that is the U.S. Army, Reacher is being set up as a fall guy with the worst enemies a man can have. But Reacher won't quit. He's fighting a new kind of waragainst an enemy he didn't know he had. And against a conspiracy more chilling, ingenious, and treacherous than anyone could have guessed.</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440423003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Police Procedural</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction - Espionage</dc:subject>
+        <dc:subject>American Mystery &amp; Suspense Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="2014-10-16T12:30:24+00:00" name="calibre:timestamp"/>
+        <meta content="Enemy, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

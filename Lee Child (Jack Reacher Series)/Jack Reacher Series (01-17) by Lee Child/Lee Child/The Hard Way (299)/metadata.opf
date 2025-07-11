@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fae752dd-88d2-4593-9dbe-41a81268a423</dc:identifier>
+        <dc:title>The Hard Way</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;BONUS: This edition contains an excerpt from Lee Child’s &lt;em&gt;The Affair&lt;/em&gt;.&lt;br&gt;&lt;/p&gt;&lt;p&gt;In Lee Child’s astonishing new thriller, ex–military cop Reacher sees more than most people would...and because of that, he’s thrust into an explosive situation that’s about to blow up in his face. For the only way to find the truth—and save two innocent lives—is to do it the way Jack Reacher does it best: the hard way…. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Jack Reacher was alone, the way he liked it, soaking up the hot, electric New York City night, watching a man cross the street to a parked Mercedes and drive it away. The car contained one million dollars in ransom money. And Edward Lane, the man who paid it, will pay even more to get his family back. Lane runs a highly illegal soldiers-for-hire operation. He will use any amount of money and any tool to find his beautiful wife and child. And then he’ll turn Jack Reacher loose with a vengeance—because Reacher is the best man hunter in the world.&lt;br&gt;&lt;/p&gt;&lt;p&gt;On the trail of a vicious kidnapper, Reacher is learning the chilling secrets of his employer’s past…and of a horrific drama in the heart of a nasty little war. He’s beginning to realize that Edward Lane is hiding something. Something dirty. Something big. But Reacher also knows this: he’s already in way too deep to stop now.&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Starred Review.&lt;/em&gt; In bestseller Child's 10th novel to feature ex-army MP Jack Reacher (after 2005's &lt;em&gt;One Shot&lt;/em&gt;), a sidewalk cafe encounter in New York City plunges Reacher into one of his most challenging—and thoroughly engrossing—adventures to date. Acting out of "reflex and professional curiosity" (and the promise of a generous fee), Reacher agrees to help sinister ex-army officer Edward Lane, whose posse of six Special Forces veterans are even more ominous than he, track down his kidnapped daughter and trophy wife. Since the kidnapping of wife number one five years earlier ended in her death, Lane cautions Reacher that he will not brook police interference ("You break your word, I'll put your eyes out"). From Lane's quarters in the West Side's venerable Dakota apartment building to the shady sections of SoHo and Greenwich Village, the author's atmospheric descriptions make Manhattan a leading player, with menace lurking at every intersection. The inevitable showdown, on a farm outside a tiny English village, ranks as one of Child's most thrilling finales.&lt;em&gt; (May)&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;From Bookmarks Magazine&lt;/h3&gt;&lt;p&gt;Lee Child has become one of the most popular writers in a genre known for the hard-earned loyalty of its readers. Fortunately, his character Jack Reacher, "the literary heir to Mike Hammer, Sir Lancelot and, perhaps, Jack Paladin" (&lt;em&gt;Denver Post&lt;/em&gt;), shows no signs of cooling off. Critics applaud Child for bringing fresh observations and endearing quirks to Reacher's character (keep an eye out for the clothing in this latest effort), who was first introduced to readers in &lt;em&gt;Killing Floor&lt;/em&gt; (1997) and most recently appeared in &lt;em&gt;One Shot&lt;/em&gt; (2005). The books also contain a sense of humor, which contrasts nicely, at times ironically, with scenes of intense violence and cerebral intrigue.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Copyright © 2004 Phillips &amp;amp; Nelson Media, Inc.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Delacorte Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">PPNZYEL7pwgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780385336697</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000GCFG7E</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/hard-way</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/hard-way-lee-child/1100217003</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7000299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:56+00:00" name="calibre:timestamp"/>
+        <meta content="Hard Way, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

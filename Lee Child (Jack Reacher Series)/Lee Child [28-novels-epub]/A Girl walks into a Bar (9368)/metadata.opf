@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21111e99-e603-405f-b01f-919fccb725cd</dc:identifier>
+        <dc:title>A Girl walks into a Bar</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-17T09:53:31.484000+00:00</dc:date>
+        <dc:description>In 'James Penney's New Identity', in the dry desert of Southern California, James Penney is laid off from the plant after seventeen loyal years of service. With the threat of the bank repossessing his treasured red Firebird, he goes on the run. But why are the cops so hot on his trail? And who is the tall military policeman, built like a weightlifter, who offers him a ride?Set just a few minutes before the terrifying opening of the bestselling Jack Reacher thriller Gone Tomorrow, in 'Guy Walks Into a Bar', old habits die hard for Jack Reacher. He is always on the look-out for trouble. When he stops at a bar in lower Manhattan for a late night beer and some music, his eyes are drawn to a rich young Russian girl and her bodyguard. Is she in danger? Who are those two suspicious-looking guys sitting at separate tables, watching her?These two short stories are part of the Storycuts series.</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781448126231</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Gu0nFdea5LIC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">de93c280-dd23-443e-a9e8-ec65f470089e</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="12.50" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2017-01-28T09:45:31.437000+00:00" name="calibre:timestamp"/>
+        <meta content="Girl walks into a Bar, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

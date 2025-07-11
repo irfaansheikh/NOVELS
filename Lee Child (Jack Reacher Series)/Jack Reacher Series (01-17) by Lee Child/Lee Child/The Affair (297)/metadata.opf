@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02933c8e-ed8b-4bee-8a34-cdb948e347a2</dc:identifier>
+        <dc:title>The Affair</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Everything starts somewhere. . . .&lt;br&gt;&lt;/p&gt;&lt;p&gt;For elite military cop Jack Reacher, that somewhere was Carter Crossing, Mississippi, way back in 1997. A lonely railroad track. A crime scene. A coverup.&lt;br&gt;&lt;/p&gt;&lt;p&gt;A young woman is dead, and solid evidence points to a soldier at a nearby military base. But that soldier has powerful friends in Washington. &lt;br&gt;&lt;/p&gt;&lt;p&gt;Reacher is ordered undercover&lt;strong&gt; - &lt;/strong&gt;to find out everything he can, to control the local police, and then to vanish. Reacher is a good soldier. But when he gets to Carter Crossing, he finds layers no one saw coming, and the investigation spins out of control.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Local sheriff Elizabeth Deveraux has a thirst for justice&lt;strong&gt; - &lt;/strong&gt;and an appetite for secrets. Uncertain they can trust one another, Reacher and Deveraux reluctantly join forces. Reacher works to uncover the truth, while others try to bury it forever. The conspiracy threatens to shatter his faith in his mission, and turn him into a man to be feared.&lt;br&gt;&lt;/p&gt;&lt;p&gt;A novel of unrelenting suspense that could only come from the pen of #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author Lee Child, &lt;em&gt;The Affair&lt;/em&gt; is the start of the Reacher saga, a thriller that takes Reacher - and his readers - right to the edge . . . and beyond.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Windsor</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">mXsSplAzMYgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781445859682</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0440339359</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004P8JPS6</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/affair</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">11364830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-04-26T02:16:02+00:00" name="calibre:timestamp"/>
+        <meta content="Affair, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

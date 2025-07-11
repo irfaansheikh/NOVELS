@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99a8b6d7-8b94-4cf4-ad3e-f9cc7f4545ac</dc:identifier>
+        <dc:title>Personal</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Jack Reacher returns in the latest fast-moving, action-packed, suspenseful book from #1 &lt;i&gt;New York Times &lt;/i&gt;bestselling author Lee Child.&lt;/b&gt;&lt;br&gt; &lt;br&gt; &lt;i&gt;You can leave the army, but the army doesn't leave you. Not always. Not completely, &lt;/i&gt;notes Jack Reacher--and sure enough, the retired military cop is soon pulled back into service. This time, for the State Department and the CIA.&lt;br&gt;  &lt;br&gt; Someone has taken a shot at the president of France in the City of Light. The bullet was American. The distance between the gunman and the target was exceptional. How many snipers can shoot from three-quarters of a mile with total confidence? Very few, but John Kott--an American marksman gone bad--is one of them. And after fifteen years in prison, he's out, unaccounted for, and likely drawing a bead on a G-8 summit packed with enough world leaders to tempt any assassin. &lt;br&gt;  &lt;br&gt; If anyone can stop Kott, it's the man who beat him before: Reacher. And though he'd rather work alone,...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-8041-7876-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="2017-01-28T09:45:05.468000+00:00" name="calibre:timestamp"/>
+        <meta content="Personal" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

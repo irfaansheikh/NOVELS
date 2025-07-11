@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e4ec7c2-410f-4386-91e6-5a00a1884c95</dc:identifier>
+        <dc:title>Night School: (Jack Reacher 21)</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-07T09:53:49.937000+00:00</dc:date>
+        <dc:description>In the morning, they gave Reacher a medal.  And in the afternoon, they sent him back to school.It’s just a voice plucked from the air: ‘The American wants a hundred million dollars’.For what? Who from? It’s 1996, and the Soviets are long gone. But now there’s a new enemy. In an apartment in Hamburg, a group of smartly-dressed young Saudis are planning something big.Jack Reacher is fresh off a secret mission and a big win. The Army pats him on the back and gives him a medal. And then they send him back to school. It’s a school with only three students: Reacher, an FBI agent, and a CIA analyst. Their assignment? To find that American. And what he’s selling. And to whom. There is serious shit going on, signs of a world gone mad. Night School takes Reacher back to his army days, but this time he’s not in uniform. With trusted sergeant Frances Neagley at his side, he must carry the fate of the world on his shoulders, in a wired, fiendishly clever new adventure that will make the cold sweat trickle down your spine.</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">XvcfCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781473508798</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="2017-01-28T08:06:56.843000+00:00" name="calibre:timestamp"/>
+        <meta content="Night School: (Jack Reacher 21)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

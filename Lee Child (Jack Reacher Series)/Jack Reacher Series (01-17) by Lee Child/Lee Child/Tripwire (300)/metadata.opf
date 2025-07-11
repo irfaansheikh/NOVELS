@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d423d91-bf39-4d53-b86c-812d5f888897</dc:identifier>
+        <dc:title>Tripwire</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Reacher's anonymity in Florida is shattered by an investigator who's come looking for him. But hours after his arrival, the stranger is murdered. Retracing the PI's trail back to New York, Reacher's compelled to find out who was looking for him and why. He never expected the reasons to be so personal--and twisted.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Ex-military policeman Jack Reacher is lying low in Key West, digging up swimming pools by hand. He is not at all pleased when a private detective starts asking questions about him. But when the detective, Costello, turns up dead with his fingertips sliced off, Reacher realizes it is time to move on. &lt;/p&gt;&lt;p&gt;As in Lee Child's two previous thrillers, &lt;em&gt;Die Trying&lt;/em&gt; and &lt;em&gt;Killing Floor&lt;/em&gt;, Reacher is soon up to his neck in lethal trouble, this time involving a vicious Wall Street manipulator, a mysterious woman (of course), and the livelihood of a whole community. Even the fate of soldiers missing in action in Vietnam is stirred into the brew.&lt;/p&gt;&lt;p&gt;But this is not a book by one of the new breed of U.S. thriller writers. Child prides himself on his ability, as an Englishman, to write American thrillers that are utterly convincing in milieu and toughness of action, without a trace of English sensibility. &lt;em&gt;Tripwire&lt;/em&gt; is no exception. Every bit as lean and compulsive as its predecessors, it also builds on the freshest aspect of those books: Reacher may be a tough, epic hero, but he always remains human and vulnerable. &lt;em&gt;--Barry Forshaw&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Jack Reacher, the hulking ex-soldier readers will remember from Child's first two thrillers, Die Trying and Killing Floor, can kill with his bare hands, and sports chest muscles thick enough to stop bullets. He's actually a dynamo of a character, wily in an innocent sort of way, and the anchor to one of the best new series in thriller fiction. Here, Reacher is incognito, living the life of a drifter and digging swimming pools in Key West. When a PI from New York comes looking for him, and shortly afterwards turns up dead with his fingertips sliced off, Reacher flies north and discovers that the instigator of the search is Leon Garber, his former army commanding officer. But Garber has died the day before Reacher arrives. As Reacher finds out from Jodie Jacob, Garner's beautiful attorney daughter, Garber was helping an elderly couple to locate their son, who supposedly died in a helicopter crash during the Vietnam War. The military won't confirm the death, however, or even classify the soldier as missing in action. Pursuing the search together, Reacher and Jacob narrowly escape murder attempts by a pair of dark-suited thugs who work for an evil corporate loan shark named "Hook" Hobie, who has a hideously disfigured face and a metal hook for a right hand. Hobie is harboring a terrible secret linking him to the couple's vanished son, and he'll kill anyone who tries to discover his diabolical past. A showdown between the two men is inevitable, and when it happens, it's a beautAalmost as good as Child's skillfully laid surprise ending and the crisp and original dialogue throughout. Reacher is a complex, contemplative brute whose aversion to social and material entanglements entail very peculiar habits and ideas. He never cleans his clothes, preferring to buy new ones (going to a dry cleaner implies a commitment to return); and he's spellbinding whether kicking in doors or just kicking around a thought in his brain. Literary Guild featured alternate; feature film rights for Killing Floor and the character of Jack Reacher optioned by Mark Johnson/Polygram; rights to Jack Reacher series sold to 18 countries. (July) &lt;br&gt;Copyright 1999 Reed Business Information, Inc. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jove</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0515143073</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">1568959125</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/tripwire-lee-child/1100211082</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/tripwire</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">220970</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>War</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:49+00:00" name="calibre:timestamp"/>
+        <meta content="Tripwire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

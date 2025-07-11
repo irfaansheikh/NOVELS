@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ca57dda-9da0-4449-9862-db098d3100c1</dc:identifier>
+        <dc:title>Running Blind</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;See Jack Reacher now in his first major motion picture.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Across the country women are being murdered by a killer who leaves no evidence, no fatal wounds, no signs of struggle, and no clues to a motive. They are, truly, perfect crimes. In fact, the only thing that links the victims is the man they all knew: Jack Reacher.&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Jack Reacher is back, dragged into what looks like a series of grisly serial murders by a team of FBI profilers who aren't totally sure he's not the killer they're looking for, but believe that even if he isn't, he's smart enough to help them find the real killer. And what they've got on the ex-MP, who's starred in three previous Lee Child thrillers (&lt;em&gt;Tripwire&lt;/em&gt;, &lt;em&gt;Die Trying&lt;/em&gt;, &lt;em&gt;Killing Floor&lt;/em&gt;), is enough to ensure his grudging cooperation: phony charges stemming from Reacher's inadvertent involvement in a protection shakedown and the threat of harm to the woman he loves. &lt;/p&gt;&lt;p&gt;The killer's victims have only one thing in common--all of them brought sexual harassment charges against their military superiors and all resigned from the army after winning their cases. The manner, if not the cause, of their deaths is gruesomely the same: they died in their own bathtubs, covered in gallons of camouflage paint, but they didn't drown and they weren't shot, strangled, poisoned, or attacked. Even the FBI forensic specialists can't figure out why they seem to have gone willingly to their mysterious deaths. Reacher isn't sure whether the killings are an elaborate cover-up for corruption involving stolen military hardware or the work of a maniac who's smart enough to leave absolutely no clues behind. This compelling, iconic antihero dead-ends in a lot of alleys before he finally figures it out, but every one is worth exploring and the suspense doesn't let up for a second. The ending will come as a complete surprise to even the most careful reader, and as Reacher strides off into the sunset, you'll wonder what's in store for him in his next adventure. &lt;em&gt;--Jane Adams&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Jack Reacher, the wandering folk hero of Child's superb line of thrillers (Tripwire, etc.), faces a baffling puzzle in his latest adventure: who is the exceptionally crafty villain murdering women across the country, leaving the naked bodies in their bathtubs (which are filled with army camouflage green paint), escaping the scenes and leaving no trace of evidence? The corpses show no cause of death and Reacher's sole clue is that all the victims thus far were sexually harassed while serving in the military. There's got to be some sort of grand scheme behind the killings, but with no physical evidence, FBI agents bumble around until they finally question Reacher, a former military cop who handled each of the dead women's harassment cases. After Reacher convinces investigators he's innocent, theyAcuriouslyAask him to stay on as a case consultant. Reacher doesn't like the ideaAhe's too much of a lone wolfAbut he has little choice. The feds threaten him and his girlfriend, high-powered Manhattan attorney Jodie Jacob, with all sorts of legal entanglements if he doesn't help. So Reacher joins the FBI team and immediately attacks the feds' approach, which is based solely on profiling. Then he breaks out on his own, pursuing enigmatic theories and hunches that lead him to a showdown with a truly surprising killer in a tiny village outside Portland, Ore. Some of the concluding elements to Child's fourth Reacher outingAhow the killer gains access to the victims' homes, as well as the revelation of the elaborate MOAfall into place with disappointing convenience. Yet the book harbors two elements that separate it from the pack: a brain-teasing puzzle that gets put together piece by fascinating piece, and a central character with Robin Hood-like integrity and an engagingly eccentric approach to life. &lt;br&gt;Copyright 2000 Reed Business Information, Inc. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jove</dc:publisher>
+        <dc:identifier opf:scheme="EDELWEISS">0515143502</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">B3hutm39Fa8C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780515143508</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0515143502</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/running-blind-lee-child/1012139743</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">461181</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction / General</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:50+00:00" name="calibre:timestamp"/>
+        <meta content="Running Blind" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

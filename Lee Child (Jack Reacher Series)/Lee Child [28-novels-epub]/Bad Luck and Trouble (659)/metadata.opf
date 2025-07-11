@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">939a0c9e-32cd-4f5c-85a6-52e32877f65d</dc:identifier>
+        <dc:title>Bad Luck and Trouble</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-19T14:36:43+00:00</dc:date>
+        <dc:description>SUMMARY: From a helicopter high above the empty California desert, a man is sent free-falling into the night…. In Chicago, a woman learns that an elite team of ex–army investigators is being hunted down one by one.... And on the streets of Portland, Jack Reacher—soldier, cop, hero—is pulled out of his wandering life by a code that few other people could understand. From the first shocking scenes in Lee Child’s explosive new novel, Jack Reacher is plunged like a knife into the heart of a conspiracy that is killing old friends…and is on its way to something even worse.A decade postmilitary, Reacher has an ATM card and the clothes on his back—no phone, no ties, and no address. But now a woman from his old unit has done the impossible. From Chicago, Frances Neagley finds Reacher, using a signal only the eight members of their elite team of army investigators would know. She tells him a terrifying story—about the brutal death of a man they both served with. Soon Reacher is reuniting with the survivors of his old team, scrambling to raise the living, bury the dead, and connect the dots in a mystery that is growing darker by the day. The deeper they dig, the more they don’t know: about two other comrades who have suddenly gone missing—and a trail that leads into the neon of Vegas and the darkness of international terrorism.For now, Reacher can only react. To every sound. Every suspicion. Every scent and every moment. Then Reacher will trust the people he once trusted with his life—and take this thing all the way to the end. Because in a world of bad luck and trouble, when someone targets Jack Reacher and his team, they’d better be ready for what comes right back at them…From the Hardcover edition.</dc:description>
+        <dc:publisher>Dell Publishing Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440246015</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mercenary troops</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction - Espionage</dc:subject>
+        <dc:subject>Ex-police officers</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Jack (Fictitious character)</dc:subject>
+        <dc:subject>Reacher</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="2014-10-16T12:39:51+00:00" name="calibre:timestamp"/>
+        <meta content="Bad Luck and Trouble" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

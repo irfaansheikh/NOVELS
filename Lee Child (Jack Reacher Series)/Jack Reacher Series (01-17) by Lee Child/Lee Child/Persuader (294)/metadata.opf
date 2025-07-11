@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">141adde0-dc56-469f-a914-f07cc608f3e2</dc:identifier>
+        <dc:title>Persuader</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;BONUS: This edition contains an excerpt from Lee Child’s &lt;em&gt;The Affair&lt;/em&gt;.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Jack Reacher.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;The ultimate loner.&lt;br&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;An elite ex-military cop who left the service years ago, he’s moved from place to place…without family…without possessions…without commitments.&lt;br&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;And without fear. Which is good, because trouble—big, violent, complicated trouble—finds Reacher wherever he goes. And when trouble finds him, Reacher does not quit, not once…not ever.&lt;br&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;But some unfinished business has now found Reacher. And Reacher is a man who hates unfinished business.&lt;br&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;Ten years ago, a key investigation went sour and someone got away with murder. Now a chance encounter brings it all back. Now Reacher sees his one last shot. Some would call it vengeance. Some would call it redemption. Reacher would call it…justice.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;&lt;em&gt;&lt;em&gt;Amazon.com Review&lt;/em&gt;&lt;/em&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;Jack Reacher, the taciturn ex-MP whose adventures in Lee Child's six previous solidly plotted, expertly paced thrillers have won a devoted fan base, returns in this explosive tale of an undercover operation set up by the FBI to rescue an agent investigating Zachary Beck, a reclusive tycoon believed to be a kingpin in the drug trade. The novel begins with a bang as Reacher rescues Beck's son from a staged kidnapping in order to get close to his father--and trace the connection between Beck and Quinn, a former army intelligence officer who tried to sell blueprints of a secret weapon to Iraq but was murdered before he could pull it off. Or so Reacher thinks, until he spots Quinn in the crowd at a concert in Boston. As usual, Child ratchets up the tension and keeps the reader in suspense until the last page, although his enigmatic hero hardly ever seems to break a sweat. In the tough guy tradition, Reacher and his creator are overdue for a breakout, and this muscular, well-written mystery might be the one. &lt;em&gt;--Jane Adams&lt;/em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;&lt;em&gt;&lt;em&gt;From Publishers Weekly&lt;/em&gt;&lt;/em&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;&lt;em&gt;The promo copy on the ARC of Child's new thriller proclaims, "We dare to make this claim: Lee Child is the best thriller writer you're probably not reading-yet." Hopefully the "six-figure" marketing campaign promised by Child's new publisher will make that statement obsolete, because readers will be hard-pressed to find a more engaging thriller this spring season. Child is a master of storytelling skills, not least the plot twist, and the opening chapter of this novel spins a doozy, as a high-octane, extremely violent action sequence sees Child hero Jack Reacher rescue a young man, 20-year-old Richard Beck, from an attempted kidnapping before the rug is pulled out from under the reader with the chapter's last line. The rest of the novel centers on the Beck family's isolated, heavily guarded estate on the Maine coast where Reacher takes Richard. Richard's father is suspected by Feds of being a major drug dealer and the kidnapper of another Fed, and also seems to have ties to a fiend who killed Reacher's lady 10 years before, someone Reacher thought he'd killed in turn, in a vengeance slaying. Tension runs high, then extremely high, as Reacher, ingratiating himself with the dealer and hired on as a bodyguard, pokes around the estate, looking for the kidnapped Fed and evading and/or disposing of in-house bad guys as they begin to suspect he's not who he seems. But then little in Child's novels is as it at first seems, and numerous further plot twists spark the story line. What makes the novel really zing, though, is Reacher's narration-a unique mix of the brainy and the brutal, of strategic thinking and explosive action, moral rumination and ruthless force, marking him as one of the most memorable heroes in contemporary thrillerdom. Any thriller fan who has yet to read Lee Child should start now.&lt;br&gt;Copyright 2003 Reed Business Information, Inc. &lt;/em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Thorndike Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000FBJDF2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780440333869</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/persuader-lee-child/1100291916</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/persuader</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7047821</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:53+00:00" name="calibre:timestamp"/>
+        <meta content="Persuader" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

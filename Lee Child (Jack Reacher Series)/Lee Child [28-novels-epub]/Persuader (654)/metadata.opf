@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5e3b58a-994a-4738-88b2-d2fd293f748b</dc:identifier>
+        <dc:title>Persuader</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-19T14:36:28+00:00</dc:date>
+        <dc:description>SUMMARY: Jack Reacher.The ultimate loner.An elite ex-military cop who left the service years ago, he’s moved from place to place…without family…without possessions…without commitments.And without fear. Which is good, because trouble—big, violent, complicated trouble—finds Reacher wherever he goes. And when trouble finds him, Reacher does not quit, not once…not ever.But some unfinished business has now found Reacher. And Reacher is a man who hates unfinished business.Ten years ago, a key investigation went sour and someone got away with murder. Now a chance encounter brings it all back. Now Reacher sees his one last shot. Some would call it vengeance. Some would call it redemption. Reacher would call it…justice.From the Hardcover edition.</dc:description>
+        <dc:publisher>Dell Publishing Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440245988</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reacher</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Drug enforcement agents</dc:subject>
+        <dc:subject>American Mystery &amp; Suspense Fiction</dc:subject>
+        <dc:subject>Revenge</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Jack (Fictitious character)</dc:subject>
+        <dc:subject>Fiction - Espionage</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="2014-10-16T12:39:47+00:00" name="calibre:timestamp"/>
+        <meta content="Persuader" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

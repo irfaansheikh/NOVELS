@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a09d3ad1-2e9c-43d5-9528-425b54e33426</dc:identifier>
+        <dc:title>The Enemy</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;BONUS: This edition contains an excerpt from Lee Child’s &lt;em&gt;The Affair&lt;/em&gt;.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jack Reacher. Hero. Loner. Soldier. Soldier’s son. An elite military cop, he was one of the army’s brightest stars. But in every cop’s life there is a turning point. One case. One messy, tangled case that can shatter a career. Turn a lawman into a renegade. And make him question words like honor, valor, and duty. For Jack Reacher, this is that case.&lt;br&gt;&lt;/p&gt;&lt;p&gt;New Year’s Day, 1990. The Berlin Wall is coming down. The world is changing. And in a North Carolina “hot-sheets” motel, a two-star general is found dead. His briefcase is missing. Nobody knows what was in it. Within minutes Jack Reacher has his orders: Control the situation. But this situation can’t be controlled. Within hours the general’s wife is murdered hundreds of miles away. Then the dominoes really start to fall.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Two Special Forces soldiers—the toughest of the tough—are taken down, one at a time. Top military commanders are moved from place to place in a bizarre game of chess. And somewhere inside the vast worldwide fortress that is the U.S. Army, Jack Reacher—an ordinarily untouchable investigator for the 110th Special Unit—is being set up as a fall guy with the worst enemies a man can have.&lt;br&gt;&lt;/p&gt;&lt;p&gt;But Reacher won’t quit. He’s fighting a new kind of war. And he’s taking a young female lieutenant with him on a deadly hunt that leads them from the ragged edges of a rural army post to the winding streets of Paris to a confrontation with an enemy he didn’t know he had. With his French-born mother dying—and divulging to her son one last, stunning secret—Reacher is forced to question everything he once believed…about his family, his career, his loyalties—and himself. Because this soldier’s son is on his way into the darkness, where he finds a tangled drama of desperate desires and violent death—and a conspiracy more chilling, ingenious, and treacherous than anyone could have guessed.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Delacorte Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">rFn1T6E0UJEC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0440245990</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000FC1MBO</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/enemy</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/enemy-lee-child/1100299210</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7549165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:54+00:00" name="calibre:timestamp"/>
+        <meta content="Enemy, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

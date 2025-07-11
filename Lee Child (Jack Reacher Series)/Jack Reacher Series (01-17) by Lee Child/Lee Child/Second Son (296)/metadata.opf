@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebd5809d-8a66-411d-8475-caac02b2fcd2</dc:identifier>
+        <dc:title>Second Son</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-15T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;In this new short story from #1 New York Times bestselling author Lee Child, available exclusively as an eBook, a young Jack Reacher knows how to finish a fight so it stays finished. He knows how to get the job done so it stays done. And, in one of his earliest challenges, he knows that his analytical brain is just as important as his impressive brawn. Okinawa, 1974. Even at thirteen, Jack Reacher knows how to outwit and overpower anyone who stands in his way. And as the new kid in town, that’s pretty much everyone. His family has come to the Pacific with his father, who’s preparing for a top-secret Marine Corps operation. After receiving a rude welcome from the local military brats, Reacher and his older brother, Joe, intend to teach them a lesson they won’t forget. But it’s soon clear that there’s more at stake than pride. When his family’s future appears to come crumbling down, it’s the youngest Reacher who rises to the occasion with all the decisive cunning and bravura that will one day be his deadly trademark. Second Son also includes a thrilling excerpt from Lee Child’s forthcoming novel, The Affair.&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">B75RkH_D94AC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780345529725</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B005DB6NAW</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005DB6NAW</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/second-son</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/second-son-lee-child/1104328897</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">12184123</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="0.10" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:46+00:00" name="calibre:timestamp"/>
+        <meta content="Second Son" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

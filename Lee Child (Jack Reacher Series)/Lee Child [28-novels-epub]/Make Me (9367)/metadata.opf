@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2e6b552-9d01-4505-89f3-e18f8d74dcbe</dc:identifier>
+        <dc:title>Make Me</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-07T23:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;#1 &lt;i&gt;NEW YORK TIMES &lt;/i&gt;BESTSELLER&lt;li&gt;NAMED ONE OF THE BEST BOOKS OF THE YEAR BY &lt;i&gt;LOS ANGELES TIMES&lt;/i&gt; AND &lt;i&gt;THE GUARDIAN&lt;/i&gt;&lt;li&gt;Stephen King calls Jack Reacher "the coolest continuing series character"--and now he's back in this masterly new thriller from Lee Child.&lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;i&gt;"Why is this town called Mother's Rest?"&lt;/i&gt; That's all Reacher wants to know. But no one will tell him. It's a tiny place hidden in a thousand square miles of wheat fields, with a railroad stop, and sullen and watchful people, and a worried woman named Michelle Chang, who mistakes him for someone else: her missing partner in a private investigation she thinks must have started small and then turned lethal.&lt;br&gt;&lt;br&gt; Reacher has no particular place to go, and all the time in the world to get there, and there's something about Chang . . . so he teams up with her and starts to ask around. He thinks: How bad can this thing be? But before long he's plunged into a desperate race through LA, Chicago,...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="2017-01-28T09:45:29.406000+00:00" name="calibre:timestamp"/>
+        <meta content="Make Me" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

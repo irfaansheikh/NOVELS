@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab568d19-558a-421f-8913-4078b09a3287</dc:identifier>
+        <dc:title>Never Go Back</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-28T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;'It's said that a Jack Reacher novel is bought every four seconds somewhere in the world. Lee Child's genius has been to create a tough guy hero that men will envy and women will adore' *Daily Express &lt;/strong&gt;*&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;After an epic and interrupted journey all the way from the snows of South Dakota, Jack Reacher has finally made it to Virginia. His destination: a sturdy stone building a short bus ride from Washington D.C., the headquarters of his old unit, the 110th MP. It was the closest thing to a home he ever had.&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Why? He wants to meet the new commanding officer, Major Susan Turner. He liked her voice on the phone. But the officer sitting behind Reacher's old desk isn't a woman. Why is Susan Turner not there?&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;What Reacher doesn't expect is what comes next. He himself is in big trouble, accused of a sixteen-year-old homicide. And he certainly doesn't expect to hear these words: * &lt;strong&gt;'You're back in the army, Major. And your ass is mine.'&lt;/strong&gt; *&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Will he be sorry he went back? Or - will someone else?&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Transworld</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781409030805</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="2014-10-26T09:39:14+00:00" name="calibre:timestamp"/>
+        <meta content="Never Go Back" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

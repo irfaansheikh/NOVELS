@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da8be3c6-c1ef-4e29-aa06-38ff75be438a</dc:identifier>
+        <dc:title>Echo Burning</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Jack Reacher returns in Lee Child's new "rip-roaring thriller" (&lt;em&gt;Denver Rocky Mountain News&lt;/em&gt;). This time, he's a hitchhiker picked up by a troubled beauty. And what happens between them has everybody talking. &lt;br&gt;&lt;/p&gt;&lt;p&gt;"Smashingly suspenseful...Child builds tension to unbearable extremes." (&lt;em&gt;Kirkus Reviews&lt;/em&gt;, starred review)&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Jack Reacher is Spenser before Robert Parker domesticated his Boston PI--in fact, Reacher's even tougher than Hawk. He can inhale and exhale a few times and pump up his muscles so they make a bad character think twice about tangling with him. And he's spent enough time on the right side of the law to know how to operate in the gray zone if that's what it takes to save the fair maiden, punish the bad guys, and right any other wrongs he happens to encounter in the course of his wanderings. &lt;em&gt;Echo Burning&lt;/em&gt; is vintage Lee Child, a smartly paced, intricately plotted, and masterfully characterized thriller starring Reacher, the ex-military cop who's so concerned about commitment to anything--a woman, possessions, a permanent address--that he only owns the clothes on his back. But he's the kind of justice-seeking guy you'd want on your side, especially if you were an abused wife trapped in a marriage you can't get out of until, and unless, somebody bumps off your old man. &lt;/p&gt;&lt;p&gt;Reacher's sympathetic, but he's not crazy. Nonetheless, he allows himself to be drawn into beautiful Carmen Greer's orbit, which ought to teach a guy not to hitchhike. Agreeing to protect her from the husband who's about to be released from jail and, according to Carmen, who's about to pay her back for tipping off the authorities to the tax fraud that landed him in prison, Reacher moves into the bunkhouse of the Echo, Texas, ranch that's owned by the bigoted, bitter, but powerful Greer family, which despises Carmen because she's Mexican and tolerates her only because she's Sloop Greer's wife and the mother of his child. The expected bloodshed ensues, but it's Sloop, not Carmen, who ends up with a bullet in his head. Reacher's convinced that Carmen acted in self-defense, even after other evidence comes to light that suggests there's more--and less--to her unhappy tale than even her own lawyer believes. This is the best Jack Reacher yet, smart, stylish, and convincing. If it's your first encounter with Child's work, be sure to check out his backlist--&lt;em&gt;Running Blind&lt;/em&gt;, &lt;em&gt;Tripwire&lt;/em&gt;, etc. &lt;em&gt;--Jane Adams&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Jack Reacher, the vagabond freelance lawman who never hesitates to stick his nose into private business, takes his lively act to Texas, embroiling himself in what starts as a messy domestic dispute before turning far more ominous. The rugged former army cop comes to the aid of Carmen Greer, who picks him up on the side of the road one morning outside Lubbock, then asks him to kill her abusive husband. Sloop Greer is getting out of prison in a few days, and Carmen fears he will start beating her again. Reacher declines, but agrees to protect Carmen, hiring on as a cowhand at the couple's remote ranch in Echo County, Tex., far outside Pecos. Within hours of Sloop's return from prison, where he was serving time for tax evasion, violence strikes. But the victim isn't Carmen; it's Sloop. He's found shot dead, and Carmen is arrested. End of story? Hardly. Most wandering heroes would move on at this point, but not Reacher. He begins taking a hard look at both Carmen and Sloop's past, as well as local history. What he finds ugly secrets, human suffering, political evil is repulsive to a man who's been around as many blocks as Reacher. Child (Running Blind; Tripwire) has developed a fine franchise with Reacher, who comes from the Robin Hood mold, but has enough personal quirks and moments of unusual insight to separate him from the pack. Set in a literally and figuratively smoldering landscape, this is a clean, infectious story that taps deeply into two troubling human emotions the psychology of abuse and the desire for retribution. Author tour. (July)Forecast: Reacher's fifth adventure a BOMC, Literary Guild, Mystery Guild and Doubleday Book Club selection is among his strongest, and should hook even those who haven't read the other novels in the series. &lt;/p&gt;&lt;p&gt;Copyright 2001 Cahners Business Information, Inc.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jove</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0515133310</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0515132888</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/echo-burning-lee-child/1100316897</dc:identifier>
+        <dc:identifier opf:scheme="FF">c/lee-child/echo-burning</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">455930</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:51+00:00" name="calibre:timestamp"/>
+        <meta content="Echo Burning" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

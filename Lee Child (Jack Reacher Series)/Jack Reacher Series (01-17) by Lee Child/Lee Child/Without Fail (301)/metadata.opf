@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1222334-001a-46ca-ba06-f6801fe24ebc</dc:identifier>
+        <dc:title>Without Fail</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.29) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;A covert group of assassins has the Vice President of the United States in their sights. They've planned well. There's just one thing they didn't plan on: Jack Reacher. &lt;/p&gt;&lt;p&gt;LEE CHILD is a #1 bestselling author worldwide. His debut novel, &lt;em&gt;Killing Floor&lt;/em&gt;, won two awards for best first mystery and was nominated for two more. Foreign rights in the Jack Reacher series have been sold in ninety-five countries. The movie franchise stars Tom Cruise as Jack Reacher. Child, a native of England, is a former television director. He lives in New York City, where he is at work on his next Jack Reacher thriller.&lt;br&gt;&lt;/p&gt;&lt;p&gt;IF &lt;em&gt;WITHOUT FAIL&lt;/em&gt; DOESN'T HOOK YOU ON LEE CHILD, I GIVE UP.&lt;br&gt;-&lt;em&gt;NEW YORK TIMES&lt;/em&gt; &lt;br&gt;&lt;/p&gt;&lt;p&gt;The best thriller writer of the moment.&lt;br&gt;-JANET MASLIN, &lt;em&gt;NEW YORK TIMES&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jove</dc:publisher>
+        <dc:identifier opf:scheme="EDELWEISS">0515144312</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9yJrNQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780515144314</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0425207609</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/without-fail-lee-child/1100211077</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">2922478</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction / Thrillers</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-04-26T02:15:52+00:00" name="calibre:timestamp"/>
+        <meta content="Without Fail" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

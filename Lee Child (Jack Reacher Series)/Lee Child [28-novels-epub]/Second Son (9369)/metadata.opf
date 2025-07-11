@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd30faad-f9b2-48fe-9587-02d03c53c92a</dc:identifier>
+        <dc:title>Second Son</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;In this new short story from #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Lee Child, available exclusively as an eBook, a young Jack Reacher knows how to finish a fight so it stays finished. He knows how to get the job done so it stays done. And, in one of his earliest challenges, he knows that his analytical brain is just as important as his impressive brawn.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Okinawa, 1974. Even at thirteen, Jack Reacher knows how to outwit and overpower anyone who stands in his way. And as the new kid in town, that's pretty much everyone. His family has come to the Pacific with his father, who's preparing for a top-secret Marine Corps operation. After receiving a rude welcome from the local military brats, Reacher and his older brother, Joe, intend to teach them a lesson they won't forget. But it's soon clear that there's more at stake than pride. When his family's future appears to come crumbling down, it's the youngest Reacher who rises to the occasion with all the decisive...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-345-52972-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="16.50" name="calibre:series_index"/>
+        <meta content="2017-01-28T09:45:32.796000+00:00" name="calibre:timestamp"/>
+        <meta content="Second Son" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89d1724b-6e4a-4b0f-9f6e-95cbb0eb598a</dc:identifier>
+        <dc:title>Jack Reacher's Rules</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;"I'm not afraid of death, death's afraid of me."--Jack Reacher&lt;/b&gt;&lt;br&gt;  &lt;br&gt; You don't have to break the rules if you &lt;i&gt;make&lt;/i&gt; the rules. Case in point: Jack Reacher, the two-fisted, quick-witted, "current poster-boy of American crime fiction" (&lt;i&gt;Los Angeles Times&lt;/i&gt;). The brainchild of #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Lee Child, Reacher is a freelance troubleshooter with a mysterious past--and a serious passion for justice. Now all his hard-won knowledge and hard-hitting strategies are within every thriller reader's reach--in a rapid-fire rundown of all the trade secrets, tried-and-true tricks, and time-honored tactics that separate the man in the street from the man to beat:&lt;br&gt;  &lt;br&gt; &lt;b&gt;&amp;bull; Never count on anything except surprise and unpredictability and danger.&lt;li&gt;Go to bed fully clothed so you are always ready for action.&lt;li&gt;Next to a shotgun, a pool cue is the best weapon in a fight.&lt;li&gt;Look, don't see, listen, don't hear. The more you engage, the...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-345-54430-8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="17.10" name="calibre:series_index"/>
+        <meta content="2017-01-28T09:45:35.437000+00:00" name="calibre:timestamp"/>
+        <meta content="Jack Reacher's Rules" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

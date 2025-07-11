@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b486eaec-2a22-4549-81b2-6d2bfaf0dd24</dc:identifier>
+        <dc:title>One Shot</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.48.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Six shots. Five dead. One heartland city thrown into a state of terror. But within hours the cops have it solved: a slam-dunk case. Except for one thing. The accused man says: You got the wrong guy. Then he says: Get Reacher for me. And sure enough, exmilitary investigator Jack Reacher is coming. He knows this shootera trained military sniper who never should have missed a shot. Reacher is certain something is not rightand soon the slam-dunk case explodes. Now Reacher is teamed with a beautiful young defense lawyer, moving closer to the unseen enemy who is pulling the strings. Reacher knows that no two opponents are created equal. This one has come to the heartland from his own kind of hell. And Reacher knows that the only way to take him down is to match his ruthlessness and cunningand then beat him shot for shot.</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440423010</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Police Procedural</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction - Espionage</dc:subject>
+        <dc:subject>American Mystery &amp; Suspense Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="2014-10-16T12:30:26+00:00" name="calibre:timestamp"/>
+        <meta content="One Shot" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;, &quot;contains_html&quot;: false, &quot;make_category&quot;: false, &quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
