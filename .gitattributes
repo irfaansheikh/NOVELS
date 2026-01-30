@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+BOOKS/Books[[:space:]]Recommended[[:space:]]by[[:space:]]Sahil[[:space:]]Adeem-20230930T153903Z-001.zip filter=lfs diff=lfs merge=lfs -text
+BOOKS/Books[[:space:]]Recommended[[:space:]]by[[:space:]]Sahil[[:space:]]Adeem/Tafsir[[:space:]]ibn[[:space:]]e[[:space:]]Kaseer[[:space:]]Urdu[[:space:]]Translation[[:space:]]of[[:space:]]Al[[:space:]]Bidaya[[:space:]]An[[:space:]]Nihaya.pdf filter=lfs diff=lfs merge=lfs -text
